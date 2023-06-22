@@ -9,5 +9,5 @@ import org.junit.runner.RunWith;
         features="src/test/java/features",
         glue = ""
 )
-public class TestRunner {
+public class CucumberRunner {
 }
